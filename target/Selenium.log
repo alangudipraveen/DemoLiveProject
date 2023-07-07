@@ -1,3 +1,95 @@
 2023-07-06 21:55:02 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
 2023-07-06 21:55:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
 2023-07-06 21:55:06 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1403413933
+2023-07-06 22:11:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:11:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:11:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1403413933
+2023-07-06 22:13:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:13:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:13:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1991075605
+2023-07-06 22:15:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:15:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:15:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started154449199
+2023-07-06 22:16:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:16:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:16:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1991075605
+2023-07-06 22:33:20 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:33:20 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:33:23 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1391818342
+2023-07-06 22:34:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:34:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:34:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1391818342
+2023-07-06 22:35:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:35:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:35:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1391818342
+2023-07-06 22:36:55 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-06 22:36:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-06 22:36:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1391818342
+2023-07-07 09:45:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 09:45:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 09:45:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1991075605
+2023-07-07 11:04:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 11:04:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 11:04:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1353093587
+2023-07-07 11:04:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 11:04:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-07-07 12:43:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:43:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 12:43:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started739703515
+2023-07-07 12:43:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:43:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 12:45:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:45:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 12:45:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2000530216
+2023-07-07 12:45:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:45:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 12:47:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:47:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 12:47:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2000530216
+2023-07-07 12:47:09 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:47:09 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 12:49:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:49:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 12:49:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2000530216
+2023-07-07 12:49:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:49:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 12:50:03 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:50:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 12:50:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2000530216
+2023-07-07 12:50:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:50:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 12:53:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:53:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 12:53:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2000530216
+2023-07-07 12:53:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:53:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 12:57:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:57:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 12:57:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2000530216
+2023-07-07 12:57:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 12:57:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 13:48:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 13:48:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 13:48:08 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started621486957
+2023-07-07 13:48:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 13:48:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 13:55:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 13:55:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 13:55:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1929284175
+2023-07-07 13:55:58 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 13:55:58 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-07-07 13:57:15 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 13:57:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 13:57:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1929284175
+2023-07-07 13:57:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 13:57:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-07-07 14:05:45 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 14:05:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 14:05:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1929284175
+2023-07-07 14:05:50 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 14:05:50 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-07-07 14:07:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 14:07:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-07-07 14:07:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1929284175
+2023-07-07 14:07:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-07-07 14:07:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
