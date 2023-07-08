@@ -19,7 +19,7 @@ glue={"classpath:com.tutorialsninja.automation.stepdef"},monochrome = true,
 plugin = {"html:target/cucumber_html_report.html"})
 
 
-public class Runner {
+public class TestRunner {
 	
 	
 
