@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.tutorialsninja.automation.base.Base;
+import com.tutorialsninja.automation.framework.commonOperation;
 
 public class HeaderSection {
 	
@@ -15,18 +16,35 @@ public class HeaderSection {
 	
 	
 	@FindBy(xpath = "//span[text()='My Account']")
-	public WebElement myAccountLink;
+	public static WebElement myAccountLink;
 	
 	@FindBy(linkText = "Register")
-	public  WebElement register;
+	public static  WebElement register;
 	
 	@FindBy(linkText ="Login")
-	public WebElement login;
+	public static WebElement login;
 	
 	@FindBy(xpath = "//input[@name='search']")
-	public WebElement searchBoxField;
+	public static WebElement searchBoxField;
 	
 	@FindBy(xpath = "//button[@class='btn btn-default btn-lg']")
-	public WebElement searchButton;
+	public static WebElement searchButton;
+	
+	@FindBy(xpath = "//span[text()='Shopping Cart']")
+	public static WebElement shoppingCart;
+	
+	public static void navigateToLoginPage() {
+		commonOperation.click(HeaderSection.myAccountLink);
+		commonOperation.click(HeaderSection.login);
 
+	}
+	
+	public static void navigateToSearchBoxField() {
+		commonOperation.TypeText(HeaderSection.searchBoxField,Base.reader.getProduct());
+		commonOperation.click(HeaderSection.searchButton);
+
+	}
+	 public static void navigateToShoppingCart() {
+		   commonOperation.click(HeaderSection.shoppingCart);
+	}
 }

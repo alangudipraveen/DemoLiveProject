@@ -34,4 +34,24 @@ public class PropertyFileReader implements ConfigurationReader{
 	}
 
 	
+	public String getEmail() {
+		return properties.getProperty("email");
+	}
+
+	public String getPassword() {
+		return properties.getProperty("password");
+	}
+
+
+	public String getProduct() {	
+		return properties.getProperty("product");
+	}
+
+	
+	public String getMessage() {
+		
+		return properties.getProperty("message");
+	}
+
+	
 	}

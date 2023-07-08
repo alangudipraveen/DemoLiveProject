@@ -11,9 +11,10 @@ import cucumber.api.junit.Cucumber;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features={"D:\\DemoLiveProject\\src\\test\\resources\\FeatureFiles\\Register.feature",
-		"D:\\DemoLiveProject\\src\\test\\resources\\FeatureFiles\\login.feature",
-		"D:\\DemoLiveProject\\src\\test\\resources\\FeatureFiles\\Search.feature"},
+@CucumberOptions(features={"classpath:FeatureFiles/Register.feature",
+		                    "classpath:FeatureFiles/login.feature",
+                            "classpath:FeatureFiles/Search.feature",
+                            "classpath:FeatureFiles/Orders.feature"},
 glue={"classpath:com.tutorialsninja.automation.stepdef"},monochrome = true,
 plugin = {"html:target/cucumber_html_report.html"})
 

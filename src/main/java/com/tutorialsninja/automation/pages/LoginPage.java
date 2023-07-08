@@ -41,6 +41,12 @@ public class LoginPage {
 
 	}
 	
+	public static void doLogin1() {
+		commonOperation.TypeText(LoginPage.email, Base.reader.getEmail());
+		commonOperation.TypeText(LoginPage.password, Base.reader.getPassword());
+		commonOperation.click(LoginPage.login);
+
+	}
 	
 
 }
